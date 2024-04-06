@@ -3,7 +3,7 @@ import os
 config = {
     'available_services': {
         'vrp': {
-            'name': 'PSroblema de Ruteo de Vehiculos',
+            'name': 'Problema de Ruteo de Vehiculos',
             'path':  os.getenv('VRP_API_PATH')
         },
         'cvrp': {
